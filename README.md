@@ -54,5 +54,5 @@ Follow these steps to use this project
 [Sadra Khorami](https://github.com/sadrakhorami) |[Soheil Rezae](https://github.com/SoHeil-R)
 
 
-MIT © [NixTeam ](https://nixteam.ir)
+MIT © [NixTeam ](https://nixteam.ir) 
 
